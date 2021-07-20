@@ -9,6 +9,7 @@ Test DB Connection with: `psql postgres://postgres:postgres@postgres_db/`
 To launch your app, run:
 
 - cd myapp6
+- yarn install
 - yarn dev
 
 ## To delete the volume
